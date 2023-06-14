@@ -7,11 +7,12 @@ public class Covid19 {
     //more deletion
     //tmbulr girls geazy
     //him&I
-//ajbvshuqsvyu
+//ajbvshuqsvyuhgfhufyuyuvd
     //some demop
     //asnaubs
 //checking fr full without class name
     ///asguiageyuawgdyuvgd
+
    /* public Covid19()
     {
         system.debug('blank construtor is called');
